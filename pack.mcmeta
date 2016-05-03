@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 2,
+    "description": "PlexisImprovements_v4"
+  },
+  "language": {
+      "en_OC": {
+      "name": "\u00A7eEnglish",
+      "region": "\u00A7bColor\u00A7e",
+      "bidirectional": false
+     }
+  }
+}
