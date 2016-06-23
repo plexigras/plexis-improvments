@@ -1,9 +1,15 @@
 Plexi's Improvments
 ==========
 
-Based of of Plastix [Plast Pack](https://github.com/Plastix/Plast-Pack)
+A improved version of the default Minecraft resource pack based of of Plastix's [Plast Pack](https://github.com/Plastix/Plast-Pack).
 
-**containing:**
+
+
+[Download](https://github.com/plexigras/plexis-improvments/archive/master.zip)
+---
+
+Containing
+---
 * 628 new textures
   * 293 block textures
   * 230 item textures
@@ -11,13 +17,16 @@ Based of of Plastix [Plast Pack](https://github.com/Plastix/Plast-Pack)
   * trasparent gui
   * icons and particles
   * armor textures
+  * paintings
+  * and more
 * 140 new sounds
-* fixed default models
+* 44 fixed default models
   * 40 block models
   * 4 item models
-* optifine/mcpatcher features
+* optifine/mcpatcher
   * connected textures
   * custom colors
   * natural textures
 * custom language file
 * custom font
+
