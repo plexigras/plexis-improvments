@@ -1,0 +1,6 @@
+{
+    "parent": "item/pane",
+    "textures": {
+        "layer0": "blocks/glass_purple"
+    }
+}
