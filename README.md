@@ -10,10 +10,10 @@ A improved version of the default Minecraft resource pack based of of Plastix's 
 
 Containing
 ---
-* 749 textures
-  * 496 block textures
-  * 230 item textures
-  * 53 mob textures
+* 1106 textures
+  * 421 block textures
+  * 233 item textures
+  * 63 mob textures
   * trasparent gui
   * icons and particles
   * armor textures
@@ -24,9 +24,10 @@ Containing
   * 58 block models
   * 27 item models
 * optifine/mcpatcher
+  * custom item textures
   * connected textures
   * custom colors
   * natural textures
-* custom language file
+* custom language files
 * custom font
 
