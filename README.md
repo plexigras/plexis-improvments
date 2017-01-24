@@ -27,7 +27,6 @@ Containing
   * connected textures
   * custom colors
   * natural textures
-  * random mobs
 * custom language file
 * custom font
 
