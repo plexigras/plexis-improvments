@@ -1,0 +1,73 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "0": "blocks/redstone_dust_line0",
+        "1": "blocks/redstone_dust_line1",
+        "particle": "blocks/redstone_dust_dot"
+    },
+    "elements": [
+        {
+            "from": [7,0.9,0],
+            "to": [9,16,0.9],
+            "faces": {
+                "up": {
+                    "uv": [9,0,7,16],
+                    "texture": "#0",
+                    "tintindex": 0
+                },
+                "west": {
+                    "uv": [7,0,8,16],
+                    "texture": "#0",
+                    "tintindex": 0
+                },
+                "east": {
+                    "uv": [8,0,9,8],
+                    "texture": "#0",
+                    "tintindex": 0
+                },
+                "north": {
+                    "uv": [9,0,7,16],
+                    "texture": "#0",
+                    "tintindex": 0
+                },
+                "south": {
+                    "uv": [7,0,9,16],
+                    "texture": "#0",
+                    "tintindex": 0
+                }
+            }
+        },
+        {
+            "from": [7,16,0],
+            "to": [9,16.9,0.9],
+            "faces": {
+                "up": {
+                    "uv": [7,0,9,16],
+                    "texture": "#0",
+                    "tintindex": 0
+                },
+                "west": {
+                    "uv": [7,0,8,4],
+                    "texture": "#1",
+                    "tintindex": 0
+                },
+                "east": {
+                    "uv": [8,12,9,16],
+                    "texture": "#1",
+                    "tintindex": 0
+                },
+                "north": {
+                    "uv": [9.0,3.0,7.0,2.0],
+                    "texture": "missingtexture",
+                    "tintindex": 0
+                },
+                "south": {
+                    "uv": [7,0,9,16],
+                    "texture": "#0",
+                    "tintindex": 0
+                }
+            }
+        }
+    ]
+}
